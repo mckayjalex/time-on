@@ -8,4 +8,5 @@ This app is a work in progress, currently functions on a very basic level but it
 ## Resources 
 
 [Repo](https://github.com/mckayjalex/time-on)
+
 [Live Site](https://mckayjalex.github.io/time-on/)
