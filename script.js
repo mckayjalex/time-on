@@ -54,6 +54,8 @@ const getCurrentTime = () => {
 
 const saveTime = (event) => {
     event.target.textContent = getCurrentTime();
+    event.target.classList.add('bg-green-400');
+    event.target.classList.add('hover:bg-green-200');
 }
 
 const timeBtn = document.querySelectorAll(".time")
